@@ -1,5 +1,6 @@
 # Deep Learning Specialization
 *Master Deep Learning, and Break into AI*
+https://www.coursera.org/specializations/deep-learning
 
 Coursera 의 Deep learning specialization 수업에서 제출한 숙제 파일입니다. 본 Specialization 은 다섯개의 Course 로 구성되어있습니다. 
 1. Neural Networks and Deep Learning
